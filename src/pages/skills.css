@@ -1,0 +1,51 @@
+.techskills{
+    padding: 90px 20px ;
+    text-align: center;
+}
+.techskills .h1{
+    color: blue;
+    margin-bottom: 20px;
+}
+.mainskills{
+    display: flex;
+    flex-direction: column;
+    gap: 23px;
+    justify-content: center;
+    align-items: center;
+}
+.fontend{
+    text-align: center;
+    width: 300px;
+  border-radius: 8px;
+  overflow: hidden;
+  padding: 20px;
+  color: white;
+  border: 1.5px solid blue
+}
+.backend{
+    width: 300px;
+  border-radius: 8px;
+  overflow: hidden;
+  padding: 20px;
+  text-align: left;
+  color: white;
+  border: 1.5px solid blue
+}
+.database{
+    width: 300px;
+  border-radius: 8px;
+  overflow: hidden;
+  padding: 20px;
+  text-align: left;
+  color: white;
+  border: 1.5px solid blue;
+}
+.tools{
+      width: 300px;
+  border-radius: 8px;
+  overflow: hidden;
+  padding: 20px;
+  text-align: left;
+  color: white;
+  border: 1.5px solid blue;
+}

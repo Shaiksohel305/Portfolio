@@ -1,0 +1,28 @@
+.about {
+    padding: 90px 20px;
+    color: #979797;
+    line-height: 1.6;
+    max-width: 900px;
+    margin: auto;
+}
+
+.about h1 {
+    font-size: 32px;
+    margin-bottom: 12px;
+    text-align: center;
+    color: blue;
+}
+.about P {
+    margin-bottom: 20px;
+    font-size: 16px;
+}
+.techskills h2{
+    font-size: 24px;
+    margin-top: 12px;
+     color: #979797;
+}
+.techskills ul{
+    list-style-type: square;
+    padding-left: 17px;
+    
+}

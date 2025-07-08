@@ -1,0 +1,35 @@
+.contact{
+    padding: 90px 20px;
+    text-align: center;
+}
+.datapara{
+    font-size: 12px;
+    color: white;
+}
+.contact p {
+     color: rgb(210, 207, 207);
+     margin-bottom: 12px;
+     font-size: 18px;
+     color: rgb(127, 125, 125);
+     margin-bottom: 23px;
+}
+strong{
+    color: white;
+}
+.contact.h1{
+    font-size: 32px;
+    color: blue;
+    margin-bottom: 20px;
+}
+.contact-link{
+    margin: 10px 0;
+    font-size: 16px;
+}
+.contact-link a{
+    color: rgb(177, 177, 177);
+    text-decoration: none;
+}
+.contact-link a:hover{
+    text-decoration: underline;
+    color: azure;
+}

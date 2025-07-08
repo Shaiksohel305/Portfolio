@@ -1,0 +1,14 @@
+.projects {
+  padding: 90px 20px;
+  text-align: center;
+}
+h1{
+    color: blue;
+    margin-bottom: 24px;
+}
+.project-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
