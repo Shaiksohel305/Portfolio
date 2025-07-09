@@ -6,7 +6,7 @@ export const Contact = () => {
   return (
     <div className='contact' >
       <h1>Contact Me</h1>
-      <p className='datapara'>if have any opportunities or questions plsease contact me. </p>
+      <p className='datapara'>if you have any questions or opportunity please contact me. </p>
       <div className="contact-link">
         <p><strong><FaEnvelope/> Email : </strong> <a href="mailto:sohelshaik.it@gmail.com">shaiksohel@gmail.com</a></p>
         <p><strong><FaGithub/> GitHub : </strong> <a href="https://github.com/Shaiksohel305" target='blank'>github.com</a></p>

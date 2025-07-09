@@ -1,25 +1,26 @@
 .home{
     background-color: #0d1117;;
     text-align: center;
-    padding:90px 40px;
+    padding:30px 40px;
     min-height: 80vh;
     color: white;
 }
 .intro h1{
-    font-size: 60px;
+    font-size: 40px;
     margin-bottom: 10px;
     color: white;
 }
 .intro h2{
     font-size: 24px;
     margin-bottom: 15px;
-    color: blue;
+    color: rgb(31, 31, 225);
 }
 .intro p{
     max-width: 600px;
     margin: 0 auto 20px;
     font-size: 16;
     color: #929292;
+    padding-bottom: 12px;
 }
 .btn{
     display: inline-block;

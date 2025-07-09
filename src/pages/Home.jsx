@@ -11,7 +11,8 @@ export const Home = () => {
         <img src="sohelimg.jpg"  className="sohelimg"alt="sohel-img"/>
         <h1>Hi, I'm <span>Shaik Sohel</span></h1>
         <h2>Full Stack Web-Developer</h2>
-        <p>I build responsive website and dynamic web application using React, Node.js, Express.js, MongoDB</p>
+        <p>  I design and develop responsive, user-centric web applications using modern technologies like React, Node.js, Express.js, and MongoDB. I’m dedicated to building scalable solutions 
+    and writing clean, efficient code that brings ideas to life.</p>
         <a href="/projects" className='btn'>View of Projects</a>
     </div>
     <About/>
